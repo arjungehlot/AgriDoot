@@ -21,16 +21,16 @@ const Footer = () => {
               predict weather patterns, detect crop diseases, and optimize farming practices through AI-powered analytics.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="/" className="text-gray-300 hover:text-white transition-colors">
                 <FaFacebook size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="/" className="text-gray-300 hover:text-white transition-colors">
                 <FaTwitter size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="/" className="text-gray-300 hover:text-white transition-colors">
                 <FaInstagram size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              <a href="/" className="text-gray-300 hover:text-white transition-colors">
                 <FaLinkedin size={20} />
               </a>
             </div>
@@ -40,11 +40,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">QUICK LINKS</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">About Us</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Contact Us</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">How to Use</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Careers</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Support</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">About Us</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Contact Us</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">How to Use</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Careers</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Support</a></li>
             </ul>
           </div>
 
@@ -52,11 +52,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">EXPLORE</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Use Cases</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Product</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Blogs</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">API Service</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Benefits</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Use Cases</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Product</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Blogs</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">API Service</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Benefits</a></li>
             </ul>
           </div>
 
@@ -64,9 +64,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">LEGAL</h3>
             <ul className="space-y-2">
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Terms & Conditions</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Privacy Policy</a></li>
-              <li><a href="#" className="text-gray-300 hover:text-white transition-colors">Refund Policies</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Terms & Conditions</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Privacy Policy</a></li>
+              <li><a href="/" className="text-gray-300 hover:text-white transition-colors">Refund Policies</a></li>
             </ul>
           </div>
         </div>

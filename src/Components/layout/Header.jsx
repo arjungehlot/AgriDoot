@@ -61,14 +61,14 @@ const Header = () => {
         </div>
 
         {/* Desktop Nav */}
-        <div className="hidden md:flex items-center justify-center flex-grow space-x-6 font-semibold text-white ml-6">
-          <a href="#" className="hover:underline underline-offset-8">Home</a>
-          <a href="#" className="hover:underline underline-offset-8">About Us</a>
-          <a href="#" className="hover:underline underline-offset-8">Product</a>
-          <a href="#" className="hover:underline underline-offset-8">Partner ▾</a>
-          <a href="#" className="hover:underline underline-offset-8">Solutions ▾</a>
-          <a href="#" className="hover:underline underline-offset-8">Resources ▾</a>
-          <a href="#" className="hover:underline underline-offset-8">Contact Us</a>
+        <div className="hidden md:flex items-center cursor-pointer justify-center flex-grow space-x-6 font-semibold text-white ml-6">
+          <a href="/" className="hover:underline cursor-pointer underline-offset-8">Home</a>
+          <a href="/" className="hover:underline cursor-pointer underline-offset-8">About Us</a>
+          <a href="/" className="hover:underline cursor-pointer underline-offset-8">Product</a>
+          <a href="/" className="hover:underline cursor-pointer underline-offset-8">Partner ▾</a>
+          <a href="/" className="hover:underline cursor-pointer underline-offset-8">Solutions ▾</a>
+          <a href="/" className="hover:underline cursor-pointer underline-offset-8">Resources ▾</a>
+          <a href="/" className="hover:underline cursor-pointer underline-offset-8">Contact Us</a>
         </div>
 
         {/* Action Buttons */}
@@ -90,13 +90,13 @@ const Header = () => {
       {/* Mobile Dropdown */}
       {isOpen && (
         <div className="md:hidden bg-white text-[#04703a] px-4 py-4 space-y-4 shadow-md z-50">
-          <a href="#" className="block font-bold border-b pb-2">Home</a>
-          <a href="#" className="block">About Us</a>
-          <a href="#" className="block">Product</a>
-          <a href="#" className="block">Partner ▾</a>
-          <a href="#" className="block">Solutions ▾</a>
-          <a href="#" className="block">Resources ▾</a>
-          <a href="#" className="block">Contact Us</a>
+          <a href="/" className="block font-bold border-b pb-2">Home</a>
+          <a href="/" className="block">About Us</a>
+          <a href="/" className="block">Product</a>
+          <a href="/" className="block">Partner ▾</a>
+          <a href="/" className="block">Solutions ▾</a>
+          <a href="/" className="block">Resources ▾</a>
+          <a href="/" className="block">Contact Us</a>
           <div className="pt-4 space-y-2">
             <button className="w-full bg-white text-[#04703a] border border-[#04703a] py-2 font-bold rounded-md">
               Earn with Us!
