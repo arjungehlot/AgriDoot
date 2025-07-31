@@ -2,7 +2,7 @@ import About from "../Pages/About";
 import DownloadApp from "../Pages/DownloadApp";
 import FaqAndNews from "../Pages/FaqAndNews";
 import FeatureShowcaseSection from "../Pages/FeatureShowcase";
-import GatewaySection from "../Pages/GateWaySection";
+import GatewaySection from "../Pages/GatewaySection";
 import ServicesSection from "../Pages/ServicesSection";
 import SmartIotSection from "../Pages/SmartIotSection";
 import TransformAgriculture from "../Pages/TransformAgriculture";
